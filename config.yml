@@ -1,8 +1,8 @@
-WEATHER_SERVICE_API_KEY: "1aa37110e48c7fcfe1ef3612937b5fb4"
-BOT_TOKEN: "6535203643:AAGdd2cquuNWpKIpVpGsP8tgAsULMTTnr2w"
+WEATHER_SERVICE_API_KEY: "*"
+BOT_TOKEN: "*"
 DB_NAME: "bot_logs.sqlite"
 bot_messages: 
     weather_for_location_retrieval_failed: "Не получилось узнать погоду в этой локации.\n\n /help - инструкция по использованию бота."
     general_failure: "Неизвестная команда.\n\n /help - инструкция по использованию бота."
     weather_in_city_message: "Погода в городе {}:\n{}\nтемпература: {:.1f}°C.\nощущаетя как: {:.1f}°C.\nотносительная влажность воздуха: {:d}%.\nскорость ветра: {:.1f} м/с."
-    help: "Этот бот создан в качестве тестового задания для компании BobrAI. Бот умеет показывать погоду в вашем городе, введите команду /weather и через пробел укажите город (пример, /weather Хабаровск)."
+    help: "Этот бот умеет показывать погоду в вашем городе, введите команду /weather и через пробел укажите город (пример, /weather Хабаровск)."
