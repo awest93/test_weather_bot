@@ -1,4 +1,4 @@
-python-telegram-bot
+aiogram
 aiohttp_socks
 aiohttp
 aiosqlite
